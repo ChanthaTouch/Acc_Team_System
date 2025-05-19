@@ -13,6 +13,14 @@
             :label="item.name"
             md-label="Select"
           ></md-checkbox> -->
+
+           <!-- md-table-cell>
+          <md-checkbox
+            v-model="selected"
+            :value="item"
+            :label="item.name"
+            md-label="Select"
+          ></md-checkbox> -->
       </md-table-row>
     </md-table>
   </div>
